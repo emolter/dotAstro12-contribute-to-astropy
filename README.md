@@ -2,7 +2,7 @@
 conversation about contributing to Astropy at .Astronomy 12
 
 
-## Barriers to conributing
+## Barriers to contributing
 - Lack of familiarity with testing, git workflow, etc
 - Time
 - How to set up local copy of astropy and local environment to get docs build, tests working, etc.
